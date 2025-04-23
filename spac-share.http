@@ -1,0 +1,6 @@
+@spac_share_HostAddress = http://localhost:5285
+
+GET {{spac_share_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
